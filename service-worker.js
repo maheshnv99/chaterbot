@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/chaterbot/precache-manifest.fbe95a5d4a7aece8c4db0e422d5bdec3.js"
+  "/chaterbot/precache-manifest.38d21998dbbdcd928d045dcd5fa445d7.js"
 );
 
 self.addEventListener('message', (event) => {
