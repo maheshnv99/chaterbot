@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/chaterbot/static/css/main.c84e8df1.chunk.css",
-    "main.js": "/chaterbot/static/js/main.02870479.chunk.js",
-    "main.js.map": "/chaterbot/static/js/main.02870479.chunk.js.map",
+    "main.js": "/chaterbot/static/js/main.91b546f3.chunk.js",
+    "main.js.map": "/chaterbot/static/js/main.91b546f3.chunk.js.map",
     "runtime-main.js": "/chaterbot/static/js/runtime-main.9b575f99.js",
     "runtime-main.js.map": "/chaterbot/static/js/runtime-main.9b575f99.js.map",
     "static/js/2.82d1039f.chunk.js": "/chaterbot/static/js/2.82d1039f.chunk.js",
     "static/js/2.82d1039f.chunk.js.map": "/chaterbot/static/js/2.82d1039f.chunk.js.map",
     "index.html": "/chaterbot/index.html",
-    "precache-manifest.d1e63954d7d0e905c15e250f521c5d79.js": "/chaterbot/precache-manifest.d1e63954d7d0e905c15e250f521c5d79.js",
+    "precache-manifest.357d51a720e4359175f1759a4c6f0d78.js": "/chaterbot/precache-manifest.357d51a720e4359175f1759a4c6f0d78.js",
     "service-worker.js": "/chaterbot/service-worker.js",
     "static/css/main.c84e8df1.chunk.css.map": "/chaterbot/static/css/main.c84e8df1.chunk.css.map",
     "static/js/2.82d1039f.chunk.js.LICENSE.txt": "/chaterbot/static/js/2.82d1039f.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.9b575f99.js",
     "static/js/2.82d1039f.chunk.js",
     "static/css/main.c84e8df1.chunk.css",
-    "static/js/main.02870479.chunk.js"
+    "static/js/main.91b546f3.chunk.js"
   ]
 }
